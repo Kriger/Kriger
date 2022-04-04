@@ -1,13 +1,33 @@
-### Hello world! 👋
+<h1 align="center">Hello world! 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="550" height="300"/>
+  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="350" height="200"/>
 </div>
 
-About me:
-- 🔭 I’m working as a Software Engineer at <a href="https://pravo.tech"> Pravo Tech<a/>
-<!-- - 🌱 I’m currently learning-->
-- 📫 How to reach me: <a href="https://krimmel.ru"> My Web site<a/>
+---
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Kriger&style=flat-square&color=blue" alt=""/>
+</div>
+
+I'm .Net/.Net Core Developer from Russia
+
+### :technologist: About me:
+- :rocket: I’m working as a Software Engineer at <a href="https://pravo.tech"> Pravo Tech<a/>.
+- :telescope: I’m currently learning how create crossplatform UI for .Net Core apps (:
+- :seedling: Exploring technical bloging and time management.
+- :zap: In my free time, I solve problems on rosalind.info, codewars, hackerrank and read tech articles.
+- :mailbox: How to reach me: <div id="badges">
+  <a href="https://t.me/kriger1991">
+    <img src="https://github.com/Kriger/Kriger/blob/main/Telegram.svg" alt="Telegram Badge" width="30" height="30"/>
+  </a>
+  <a href="https://vk.com/kriger91">
+    <img src="https://github.com/Kriger/Kriger/blob/main/VK.svg" width="30" height="30" alt="VK Badge"/>
+  </a>
+  <a href="http://twitter.com/Krimmel_Herman">
+    <img src="https://github.com/Kriger/Kriger/blob/main/Twitter.svg" width="30" height="30" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ---
 
