@@ -1,5 +1,9 @@
 ### Hello world! 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="550" height="300"/>
+</div>
+
 About me:
 - 🔭 I’m working as a Software Engineer at <a href="https://pravo.tech"> Pravo Tech<a/>
 <!-- - 🌱 I’m currently learning-->
@@ -29,23 +33,3 @@ About me:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kriger&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriger&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**Kriger/Kriger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
