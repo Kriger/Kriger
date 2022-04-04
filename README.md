@@ -58,5 +58,10 @@ I'm .Net/.Net Core Developer from Russia
   
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработка на .Net Core под Linux](https://krimmel.ru/development-on-net-core-under-linux/)
+- [Разработка GUI-приложений под Linux… на C#. Часть 1](https://krimmel.ru/gui-applications-under-linux-on-c-sharp-part1/)
+- [Чтоб больше интернетов хороших и разных!](https://krimmel.ru/different-internets/)
+- [Типы таймеров в C#](https://krimmel.ru/types-timers-in-c-sharp/)
+- [Аврора, Эрмитаж и шляпка клош](https://krimmel.ru/aurora-hermitage-and-cloche/)
 <!-- BLOG-POST-LIST:END -->
   
