@@ -19,13 +19,13 @@ I'm .Net/.Net Core Developer from Russia
 - :zap: In my free time, I solve problems on rosalind.info, codewars, hackerrank and read tech articles.
 - :mailbox: How to reach me: <div id="badges">
   <a href="https://t.me/kriger1991">
-    <img src="https://github.com/Kriger/Kriger/blob/main/Telegram.svg" alt="Telegram Badge" width="30" height="30"/>
+    <img src="https://github.com/Kriger/Kriger/blob/main/images/Telegram.svg" alt="Telegram Badge" width="30" height="30"/>
   </a>
   <a href="https://vk.com/kriger91">
-    <img src="https://github.com/Kriger/Kriger/blob/main/VK.svg" width="30" height="30" alt="VK Badge"/>
+    <img src="https://github.com/Kriger/Kriger/blob/main/images/VK.svg" width="30" height="30" alt="VK Badge"/>
   </a>
   <a href="http://twitter.com/Krimmel_Herman">
-    <img src="https://github.com/Kriger/Kriger/blob/main/Twitter.svg" width="30" height="30" alt="Twitter Badge"/>
+    <img src="https://github.com/Kriger/Kriger/blob/main/images/Twitter.svg" width="30" height="30" alt="Twitter Badge"/>
   </a>
 </div>
 
