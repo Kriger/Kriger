@@ -58,10 +58,10 @@ I'm .Net/.Net Core Developer from Russia
   
 ### 📘 Latests posts in my blog:
 <!-- BLOG-POST-LIST:START -->
+- [Абстрактные классы и интерфейсы в C#](https://krimmel.ru/abstract-classes-vs-interfaces/)
 - [Разработка GUI-приложений под Linux… на C#. Часть 2](https://krimmel.ru/development-on-net-core-under-linux-part-2/)
 - [Разработка на .Net Core под Linux](https://krimmel.ru/development-on-net-core-under-linux/)
 - [Разработка GUI-приложений под Linux… на C#. Часть 1](https://krimmel.ru/gui-applications-under-linux-on-c-sharp-part1/)
 - [Чтоб больше интернетов хороших и разных!](https://krimmel.ru/different-internets/)
-- [Типы таймеров в C#](https://krimmel.ru/types-timers-in-c-sharp/)
 <!-- BLOG-POST-LIST:END -->
   
