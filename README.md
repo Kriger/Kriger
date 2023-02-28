@@ -13,7 +13,7 @@
 I'm .Net/.Net Core Developer from Russia
 
 ### :technologist: About me:
-- :rocket: I’m working as a Software Engineer at <a href="https://pravo.tech"> Pravo Tech<a/>.
+- :rocket: I’m working as a Software Engineer at <a href="https://www.directum.ru/"> Directum<a/>.
 - :telescope: I’m currently learning how create crossplatform UI for .Net Core apps (:
 - :seedling: Exploring technical bloging and time management.
 - :zap: In my free time, I solve problems on rosalind.info, codewars, hackerrank and read tech articles.
