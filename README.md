@@ -58,10 +58,10 @@ I'm .Net/.Net Core Developer from Russia
   
 ### 📘 Latests posts in my blog:
 <!-- BLOG-POST-LIST:START -->
+- [Обход ограничений к Docker Hub](https://krimmel.ru/docker-hub-ban-bypassing/)
 - [Middleware в ASP.NET Core](https://krimmel.ru/middleware-in-asp-net-core/)
 - [Удаляем данные из базы быстро и решительно при помощи Entity Framework](https://krimmel.ru/deleting-data-from-the-database-quickly-and-decisively-with-ef/)
 - [Абстрактные классы и интерфейсы в C#](https://krimmel.ru/abstract-classes-vs-interfaces/)
 - [Разработка GUI-приложений под Linux… на C#. Часть 2](https://krimmel.ru/development-on-net-core-under-linux-part-2/)
-- [Разработка на .Net Core под Linux](https://krimmel.ru/development-on-net-core-under-linux/)
 <!-- BLOG-POST-LIST:END -->
   
