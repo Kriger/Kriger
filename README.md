@@ -58,10 +58,10 @@ I'm .Net/.Net Core Developer from Russia
   
 ### 📘 Latests posts in my blog:
 <!-- BLOG-POST-LIST:START -->
+- [Прощай Swagger, привет Scalar](https://krimmel.ru/goodbye-swagger-hello-scalar/)
 - [Разбираемся с SQL оператором «SELECT FOR UPDATE»](https://krimmel.ru/understanding-the-select-for-update-sql-statement/)
 - [Span и Memory в .NET](https://krimmel.ru/span-and-memory-in-net/)
 - [Обход ограничений к Docker Hub](https://krimmel.ru/docker-hub-ban-bypassing/)
 - [Middleware в ASP.NET Core](https://krimmel.ru/middleware-in-asp-net-core/)
-- [Удаляем данные из базы быстро и решительно при помощи Entity Framework](https://krimmel.ru/deleting-data-from-the-database-quickly-and-decisively-with-ef/)
 <!-- BLOG-POST-LIST:END -->
   
