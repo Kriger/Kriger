@@ -58,10 +58,10 @@ I'm .Net/.Net Core Developer from Russia
   
 ### 📘 Latests posts in my blog:
 <!-- BLOG-POST-LIST:START -->
+- [Как работает сборщик мусора в .NET Core: архитектура, поколения и оптимизация производительности](https://krimmel.ru/garbage-collector-in-dotnet-core/)
 - [Популярные российские большие языковые модели &lpar;LLM&rpar;](https://krimmel.ru/russian-llms/)
 - [Балканизация интернета: как глобальная сеть превращается в «лоскутное одеяло» и что с этим делать](https://krimmel.ru/internet-balkanization/)
 - [Прощай Swagger, привет Scalar](https://krimmel.ru/goodbye-swagger-hello-scalar/)
 - [Разбираемся с SQL оператором «SELECT FOR UPDATE»](https://krimmel.ru/understanding-the-select-for-update-sql-statement/)
-- [Span и Memory в .NET](https://krimmel.ru/span-and-memory-in-net/)
 <!-- BLOG-POST-LIST:END -->
   
